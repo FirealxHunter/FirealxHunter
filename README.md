@@ -49,11 +49,11 @@ I love languages! The languages that I know are:
 * Spanish (Native) <img align="left" alt="Spanish" width="44px" src="https://image.flaticon.com/icons/png/512/299/299433.png" />
 
 ## Reach Me At 🤙
-[Gmail] alesilvaglez.ipn@gmail.com <img align="left" alt="Gmail" width="22px" src="https://image.flaticon.com/icons/png/512/888/888853.png" />
+Gmail alesilvaglez.ipn@gmail.com <img align="left" alt="Gmail" width="22px" src="https://image.flaticon.com/icons/png/512/888/888853.png" />
 
-[FirealxHunter]  (https://www.twitch.tv/firealxhunter) <img align="left" alt="Gmail" width="22px" src="https://image.flaticon.com/icons/png/512/733/733577.png" />
+FirealxHunter - https://www.twitch.tv/firealxhunter <img align="left" alt="Gmail" width="22px" src="https://image.flaticon.com/icons/png/512/733/733577.png" />
 
-[FirealxHunter]  (https://www.youtube.com/channel/UCW8CGqBd8-rLzLzmyABlakQ) <img align="left" alt="Gmail" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" />
+FirealxHunter - https://www.youtube.com/channel/UCW8CGqBd8-rLzLzmyABlakQ <img align="left" alt="Gmail" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" />
 
 More to Come! <img align="left" alt="More" width="22px" src="https://image.flaticon.com/icons/png/512/2250/2250204.png" />
 
