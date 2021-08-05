@@ -13,29 +13,29 @@ I'm Alex, an Informatics Engineer student from UPIICSA-IPN in Mexico and also a 
 * And I'm good at Development in general.
 
 ## Programming Languages & Tools that I know 💻
-Python <img align="left" alt="Python" width="44px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
+<img align="left" alt="Python" width="44px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 
-Java <img align="left" alt="Java" width="44px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
+<img align="left" alt="Java" width="44px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
 
-JavaScript <img align="left" alt="JavaScript" width="44px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
+<img align="left" alt="JavaScript" width="44px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
 
-C <img align="left" alt="C" width="44px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
+<img align="left" alt="C" width="44px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
 
-C++ <img align="left" alt="C++" width="44px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
+<img align="left" alt="C++" width="44px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
 
-C# <img align="left" alt="C#" width="44px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />
+<img align="left" alt="C#" width="44px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" /><br></br>
 
-HTML5 <img align="left" alt="HTML5" width="44px" src="https://image.flaticon.com/icons/png/512/888/888859.png" />
+<img align="left" alt="HTML5" width="44px" src="https://image.flaticon.com/icons/png/512/888/888859.png" />
 
-CSS3 <img align="left" alt="CSS3" width="44px" src="https://image.flaticon.com/icons/png/512/888/888847.png" />
+<img align="left" alt="CSS3" width="44px" src="https://image.flaticon.com/icons/png/512/888/888847.png" />
 
-Git <img align="left" alt="Git" width="44px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
+<img align="left" alt="Git" width="44px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
 
-GitHub <img align="left" alt="GitHub" width="44px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg " />
+<img align="left" alt="GitHub" width="44px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg " />
 
-Bash/CMD <img align="left" alt="Bash" width="44px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" />
+<img align="left" alt="Bash" width="44px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" />
 
-More to Come! <img align="left" alt="More" width="44px" src="https://image.flaticon.com/icons/png/512/2250/2250204.png" />
+<img align="left" alt="Bash" width="44px" src="https://image.flaticon.com/icons/png/512/2250/2250204.png" /><br>(*And More To Come!*)</br>
 
 ## Non Programming Languages, but Languages! 🗣️
 I love languages! The languages that I know are:
@@ -49,11 +49,11 @@ Japanese (N5) <img align="left" alt="Japanese" width="44px" src="https://image.f
 Spanish (Native) <img align="left" alt="Spanish" width="44px" src="https://image.flaticon.com/icons/png/512/299/299433.png" />
 
 ## Reach Me At 🤙
-Gmail alesilvaglez.ipn@gmail.com <img align="left" alt="Gmail" width="22px" src="https://image.flaticon.com/icons/png/512/888/888853.png" />
+Gmail -> alesilvaglez.ipn@gmail.com <img align="left" alt="Gmail" width="22px" src="https://image.flaticon.com/icons/png/512/888/888853.png" />
 
-FirealxHunter - https://www.twitch.tv/firealxhunter <img align="left" alt="Gmail" width="22px" src="https://image.flaticon.com/icons/png/512/733/733577.png" />
+FirealxHunter -> https://www.twitch.tv/firealxhunter <img align="left" alt="Gmail" width="22px" src="https://image.flaticon.com/icons/png/512/733/733577.png" />
 
-FirealxHunter - https://www.youtube.com/channel/UCW8CGqBd8-rLzLzmyABlakQ <img align="left" alt="Gmail" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" />
+FirealxHunter -> https://www.youtube.com/channel/UCW8CGqBd8-rLzLzmyABlakQ <img align="left" alt="Gmail" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" />
 
 More to Come! <img align="left" alt="More" width="22px" src="https://image.flaticon.com/icons/png/512/189/189792.png" />
 
@@ -70,8 +70,8 @@ I'm interested in continuing my path as an Informatics Engineer in order to beco
 <br>I'd like to study a Mastery in Japan and also make a research which allows me to help my country in technological issues as well as theirs</br>
 
 ### Things That I'm Currently Learning 😮🔍
-Kotlin <img align="left" alt="Kotlin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/kotlin.svg" />
-Flutter <img align="left" alt="Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/flutter.svg" />
-Machine Learning <img align="left" alt="ML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/r.svg" />
-React <img align="left" alt="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/react.svg" />
-Firebase <img align="left" alt="Firebase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/firebase.svg" />
+Kotlin <img align="left" alt="Kotlin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/kotlin.svg" /><br>
+</br>Flutter <img align="left" alt="Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/flutter.svg" /><br>
+</br>Machine Learning <img align="left" alt="ML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/r.svg" /><br>
+</br>React <img align="left" alt="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/react.svg" /><br>
+</br>Firebase <img align="left" alt="Firebase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/firebase.svg" />
